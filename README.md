@@ -144,7 +144,6 @@ Me chamo Daniel Souza de Oliveira, tenho 27 anos e sou natural do Rio de Janeiro
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.varcel.app/api?username=daniel-oliveiira&show_icons=treu&theme=tokyoninght)
 
 <img 
       align="left" 
