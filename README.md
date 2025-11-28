@@ -6,20 +6,6 @@
 Me chamo Daniel Souza de Oliveira, tenho 27 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no São judas tadeu, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="">
-        <img 
-            alt="subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/twitch/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="">
-        <img 
-            alt="views" 
-            title="Vizualizações" 
-            src="https://custom-icon-badges.demolab.com/twitch/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Daniel-Oliveiira?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
